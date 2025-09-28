@@ -1,5 +1,5 @@
 # bd
-Baze de date
+Database
 
 Hospital Management System – Database Project
 
